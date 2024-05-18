@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @MoyInGxing
-- 👀 I’m interested in 101
-- 🌱 I’m currently learning cyber
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Hi, I’m @MoyInGxing
+-  I’m interested in 101
+-  I’m currently learning cyber
+-  qq：2990238527
 
 <!---
 MoyInGxing/MoyInGxing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
